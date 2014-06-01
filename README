@@ -7,7 +7,7 @@ REQUIREMENTS
   - Linux 2.6
   - FuSE (http://fuse.sourceforge.org)
   - Ruby 1.8
-  - boxrubylib (http://rubyforge.org/projects/boxrubylib/)
+  - boxrubylib (https://github.com/tariki/boxrubylib)
 
 INSTALL
 
